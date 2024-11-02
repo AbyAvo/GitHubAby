@@ -1,1 +1,2 @@
+Escribiendo en archivo1 desde Rama2 
 Escibiendo en archivo1 desde main 
